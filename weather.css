@@ -100,7 +100,6 @@ button:hover{
     text-align: center;
 }
 
-/* Mobile */
 @media (max-width: 600px){
 
     .weatherForm{
